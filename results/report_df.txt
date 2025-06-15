@@ -1,0 +1,15 @@
+===== Сравнение с df =====
+
+Удалённые признаки:
+['NumRadicalElectrons', 'SMR_VSA8', 'SPS', 'SlogP_VSA9', 'Unnamed: 0', 'fr_N_O', 'fr_SH', 'fr_azide', 'fr_barbitur', 'fr_benzodiazepine', 'fr_diazo', 'fr_dihydropyridine', 'fr_isocyan', 'fr_isothiocyan', 'fr_lactam', 'fr_nitroso', 'fr_phos_acid', 'fr_phos_ester', 'fr_prisulfonamd', 'fr_thiocyan']
+
+Добавленные признаки:
+['BCUT2D_MWLOW_log', 'CSP3_Kappa1_ratio', 'CSP3_MolWt_product', 'Chi_max', 'Chi_mean', 'Chi_std', 'Chi_sum', 'EState_VSA_max', 'EState_VSA_mean', 'EState_VSA_std', 'EState_VSA_sum', 'Flexibility', 'Kappa_max', 'Kappa_mean', 'Kappa_std', 'Kappa_sum', 'Log_CSP3_Kappa1_ratio', 'Log_CSP3_MolWt_product', 'Log_Flexibility', 'Log_MolWt_TPSA_ratio', 'Log_Total_HBonding', 'MolWt_TPSA_ratio', 'PEOE_VSA_max', 'PEOE_VSA_mean', 'PEOE_VSA_std', 'PEOE_VSA_sum', 'SMR_VSA3_log', 'SMR_VSA_max', 'SMR_VSA_mean', 'SMR_VSA_std', 'SMR_VSA_sum', 'SlogP_max', 'SlogP_mean', 'SlogP_std', 'SlogP_sum', 'Total_HBonding', 'log_CC50', 'log_IC50', 'log_SI']
+
+Изменения в mean:
+BCUT2D_MRHI: mean изменилось с 6.2954 на 6.2943
+BCUT2D_MWHI: mean изменилось с 23.1966 на 23.1767
+
+Изменения в std:
+BCUT2D_MRHI: std изменилось с 1.0910 на 1.0895
+BCUT2D_MWHI: std изменилось с 14.5290 на 14.5117

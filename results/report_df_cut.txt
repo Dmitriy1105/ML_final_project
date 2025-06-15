@@ -1,0 +1,15 @@
+===== Сравнение с df_cut =====
+
+Удалённые признаки:
+['BertzCT', 'Chi0', 'Chi0n', 'Chi0v', 'Chi1', 'Chi1n', 'Chi1v', 'Chi2n', 'Chi2v', 'Chi3n', 'Chi3v', 'Chi4n', 'Chi4v', 'ExactMolWt', 'FpDensityMorgan2', 'FpDensityMorgan3', 'HallKierAlpha', 'HeavyAtomCount', 'HeavyAtomMolWt', 'Kappa1', 'Kappa2', 'Kappa3', 'LabuteASA', 'MaxAbsPartialCharge', 'MaxEStateIndex', 'MinAbsPartialCharge', 'MolMR', 'NOCount', 'NumAromaticCarbocycles', 'NumHAcceptors', 'NumHDonors', 'NumHeteroatoms', 'NumRadicalElectrons', 'NumSaturatedCarbocycles', 'NumValenceElectrons', 'SMR_VSA8', 'SPS', 'SlogP_VSA11', 'SlogP_VSA6', 'SlogP_VSA9', 'Unnamed: 0', 'VSA_EState6', 'fr_Al_OH_noTert', 'fr_COO', 'fr_COO2', 'fr_C_O', 'fr_C_O_noCOO', 'fr_N_O', 'fr_Nhpyrrole', 'fr_SH', 'fr_azide', 'fr_barbitur', 'fr_benzene', 'fr_benzodiazepine', 'fr_diazo', 'fr_dihydropyridine', 'fr_isocyan', 'fr_isothiocyan', 'fr_lactam', 'fr_nitro_arom_nonortho', 'fr_nitroso', 'fr_phenol', 'fr_phenol_noOrthoHbond', 'fr_phos_acid', 'fr_phos_ester', 'fr_prisulfonamd', 'fr_thiocyan']
+
+Добавленные признаки:
+['CSP3_Kappa1_ratio', 'CSP3_MolWt_product', 'EState_VSA_max', 'Flexibility', 'Log_CSP3_MolWt_product', 'Log_MolWt_TPSA_ratio', 'MolWt_TPSA_ratio', 'PEOE_VSA_max', 'SMR_VSA3_log', 'SMR_VSA_max', 'SlogP_max', 'log_CC50', 'log_IC50', 'log_SI']
+
+Изменения в mean:
+BCUT2D_MRHI: mean изменилось с 6.2954 на 6.2943
+BCUT2D_MWHI: mean изменилось с 23.1966 на 23.1767
+
+Изменения в std:
+BCUT2D_MRHI: std изменилось с 1.0910 на 1.0895
+BCUT2D_MWHI: std изменилось с 14.5290 на 14.5117

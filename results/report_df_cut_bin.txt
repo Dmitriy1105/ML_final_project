@@ -1,0 +1,210 @@
+===== Сравнение с df_cut_bin =====
+
+Удалённые признаки:
+['BertzCT', 'Chi0', 'Chi0n', 'Chi0v', 'Chi1', 'Chi1n', 'Chi1v', 'Chi2n', 'Chi2v', 'Chi3n', 'Chi3v', 'Chi4n', 'Chi4v', 'EState_VSA11', 'ExactMolWt', 'FpDensityMorgan2', 'FpDensityMorgan3', 'HallKierAlpha', 'HeavyAtomCount', 'HeavyAtomMolWt', 'Kappa1', 'Kappa2', 'Kappa3', 'LabuteASA', 'MaxAbsPartialCharge', 'MaxEStateIndex', 'MinAbsPartialCharge', 'MolMR', 'NOCount', 'NumAromaticCarbocycles', 'NumHAcceptors', 'NumHDonors', 'NumHeteroatoms', 'NumRadicalElectrons', 'NumSaturatedCarbocycles', 'NumValenceElectrons', 'PEOE_VSA13', 'PEOE_VSA4', 'PEOE_VSA5', 'SMR_VSA2', 'SMR_VSA8', 'SPS', 'SlogP_VSA6', 'SlogP_VSA7', 'SlogP_VSA9', 'Unnamed: 0', 'VSA_EState10', 'VSA_EState6', 'VSA_EState9', 'fr_Al_COO', 'fr_Al_OH', 'fr_Al_OH_noTert', 'fr_ArN', 'fr_Ar_COO', 'fr_Ar_NH', 'fr_Ar_OH', 'fr_COO', 'fr_COO2', 'fr_C_O_noCOO', 'fr_C_S', 'fr_HOCCN', 'fr_Imine', 'fr_NH2', 'fr_N_O', 'fr_Ndealkylation1', 'fr_Ndealkylation2', 'fr_Nhpyrrole', 'fr_SH', 'fr_aldehyde', 'fr_alkyl_carbamate', 'fr_alkyl_halide', 'fr_allylic_oxid', 'fr_amide', 'fr_amidine', 'fr_aniline', 'fr_aryl_methyl', 'fr_azide', 'fr_azo', 'fr_barbitur', 'fr_benzene', 'fr_benzodiazepine', 'fr_diazo', 'fr_dihydropyridine', 'fr_epoxide', 'fr_ester', 'fr_furan', 'fr_guanido', 'fr_hdrzine', 'fr_hdrzone', 'fr_imidazole', 'fr_imide', 'fr_isocyan', 'fr_isothiocyan', 'fr_ketone', 'fr_ketone_Topliss', 'fr_lactam', 'fr_lactone', 'fr_methoxy', 'fr_morpholine', 'fr_nitrile', 'fr_nitro', 'fr_nitro_arom', 'fr_nitro_arom_nonortho', 'fr_nitroso', 'fr_oxazole', 'fr_oxime', 'fr_para_hydroxylation', 'fr_phenol', 'fr_phenol_noOrthoHbond', 'fr_phos_acid', 'fr_phos_ester', 'fr_piperdine', 'fr_piperzine', 'fr_priamide', 'fr_prisulfonamd', 'fr_pyridine', 'fr_quatN', 'fr_sulfide', 'fr_sulfonamd', 'fr_sulfone', 'fr_term_acetylene', 'fr_tetrazole', 'fr_thiazole', 'fr_thiocyan', 'fr_thiophene', 'fr_unbrch_alkane', 'fr_urea']
+
+Добавленные признаки:
+['CSP3_Kappa1_ratio', 'CSP3_MolWt_product', 'EState_VSA_max', 'Flexibility', 'MolWt_TPSA_ratio', 'PEOE_VSA_max', 'SMR_VSA_max', 'SlogP_max', 'log_CC50', 'log_IC50', 'log_SI']
+
+Изменения в mean:
+MolLogP: mean изменилось с 3.4373 на 3.5111
+fr_NH0: mean изменилось с 1.3087 на 1.2907
+NHOHCount: mean изменилось с 1.3177 на 1.2717
+VSA_EState8: mean изменилось с 5.4081 на 5.2459
+SI: mean изменилось с 72.5088 на 12.7815
+EState_VSA8: mean изменилось с 20.4422 на 20.3506
+PEOE_VSA6: mean изменилось с 26.4111 на 26.3071
+PEOE_VSA10: mean изменилось с 8.0633 на 7.4564
+PEOE_VSA14: mean изменилось с 3.3770 на 3.0934
+SMR_VSA9: mean изменилось с 5.7299 на 4.2973
+MinEStateIndex: mean изменилось с -0.9672 на -0.8062
+MolWt: mean изменилось с 348.2622 на 348.1283
+EState_VSA4: mean изменилось с 20.2432 на 20.1751
+PEOE_VSA3: mean изменилось с 2.9829 на 2.8324
+fr_halogen: mean изменилось с 0.6344 на 0.5914
+fr_Ar_N: mean изменилось с 0.5934 на 0.5460
+PEOE_VSA11: mean изменилось с 4.9933 на 4.1795
+EState_VSA2: mean изменилось с 13.3088 на 13.2430
+PEOE_VSA12: mean изменилось с 3.4105 на 3.3745
+SlogP_VSA8: mean изменилось с 4.0307 на 3.8101
+MaxAbsEStateIndex: mean изменилось с 10.8316 на 10.8455
+PEOE_VSA1: mean изменилось с 12.6296 на 12.0416
+NumRotatableBonds: mean изменилось с 3.8382 на 3.7313
+VSA_EState7: mean изменилось с 3.2318 на 3.3275
+VSA_EState1: mean изменилось с 14.6498 на 14.4721
+Ipc: mean изменилось с 48317027937.3548 на 3756391.8562
+fr_C_O: mean изменилось с 0.8132 на 0.7982
+SMR_VSA3: mean изменилось с 5.3132 на 5.2290
+EState_VSA5: mean изменилось с 19.0701 на 18.1183
+SMR_VSA1: mean изменилось с 15.6917 на 15.5300
+EState_VSA1: mean изменилось с 12.4580 на 11.8408
+fr_ether: mean изменилось с 1.0130 на 0.8996
+IC50, mM: mean изменилось с 222.8052 на 178.3193
+SMR_VSA6: mean изменилось с 13.4658 на 13.2205
+SlogP_VSA10: mean изменилось с 4.5878 на 4.3224
+SlogP_VSA11: mean изменилось с 3.7697 на 3.1006
+BCUT2D_CHGHI: mean изменилось с 2.4722 на 2.4735
+VSA_EState5: mean изменилось с 0.0246 на 0.1968
+EState_VSA7: mean изменилось с 13.9508 на 13.8247
+SMR_VSA10: mean изменилось с 15.1171 на 15.1120
+BCUT2D_MWLOW: mean изменилось с 9.7926 на 9.8089
+TPSA: mean изменилось с 61.4008 на 60.5985
+PEOE_VSA9: mean изменилось с 14.7628 на 14.6576
+EState_VSA10: mean изменилось с 10.1785 на 9.9764
+SMR_VSA5: mean изменилось с 41.6521 на 41.6106
+EState_VSA3: mean изменилось с 16.3264 на 16.1527
+NumSaturatedHeterocycles: mean изменилось с 0.5275 на 0.5225
+SlogP_VSA2: mean изменилось с 33.0717 на 32.8032
+CC50, mM: mean изменилось с 589.1107 на 580.8940
+NumAromaticHeterocycles: mean изменилось с 0.5125 на 0.5075
+PEOE_VSA2: mean изменилось с 5.9737 на 5.9711
+VSA_EState3: mean изменилось с 9.1632 на 8.1927
+BCUT2D_MRHI: mean изменилось с 6.2954 на 6.2318
+SlogP_VSA12: mean изменилось с 4.0735 на 3.9238
+SlogP_VSA3: mean изменилось с 8.2232 на 8.1113
+BCUT2D_MRLOW: mean изменилось с -0.0695 на -0.0549
+SlogP_VSA5: mean изменилось с 39.5916 на 39.1798
+PEOE_VSA7: mean изменилось с 41.5192 на 41.2930
+EState_VSA9: mean изменилось с 8.8915 на 8.8129
+BCUT2D_MWHI: mean изменилось с 23.1966 на 22.6572
+
+Изменения в std:
+MolLogP: std изменилось с 2.1427 на 1.9067
+fr_NH0: std изменилось с 1.6376 на 1.5480
+NHOHCount: std изменилось с 1.7044 на 1.4745
+VSA_EState8: std изменилось с 5.7139 на 4.9685
+SI: std изменилось с 684.4827 на 17.1775
+EState_VSA8: std изменилось с 19.2745 на 18.8166
+PEOE_VSA6: std изменилось с 20.6285 на 20.1919
+PEOE_VSA10: std изменилось с 12.6091 на 9.8848
+BalabanJ: std изменилось с 0.4547 на 0.4511
+PEOE_VSA14: std изменилось с 7.2820 на 4.2197
+SMR_VSA9: std изменилось с 10.9662 на 6.9510
+MinEStateIndex: std изменилось с 1.5880 на 1.2105
+MolWt: std изменилось с 126.9464 на 126.4283
+EState_VSA4: std изменилось с 13.7972 на 13.5239
+PEOE_VSA3: std изменилось с 4.9605 на 4.2365
+fr_halogen: std изменилось с 1.2563 на 1.0977
+fr_Ar_N: std изменилось с 1.2608 на 1.0202
+PEOE_VSA11: std изменилось с 8.9408 на 6.4304
+EState_VSA2: std изменилось с 12.2664 на 12.0474
+PEOE_VSA12: std изменилось с 5.4630 на 5.3327
+SlogP_VSA8: std изменилось с 7.1858 на 6.4271
+MaxAbsEStateIndex: std изменилось с 3.3075 на 3.2745
+PEOE_VSA1: std изменилось с 11.5933 на 8.8470
+NumRotatableBonds: std изменилось с 3.2628 на 2.8310
+VSA_EState7: std изменилось с 5.3370 на 4.7955
+VSA_EState1: std изменилось с 18.0764 на 17.3244
+Ipc: std изменилось с 1255969026844.7366 на 6167477.6392
+fr_C_O: std изменилось с 1.0080 на 0.9624
+SMR_VSA3: std изменилось с 6.6713 на 6.1380
+EState_VSA5: std изменилось с 22.4722 на 17.7692
+SMR_VSA1: std изменилось с 13.4801 на 12.6230
+EState_VSA1: std изменилось с 18.7566 на 15.5875
+fr_ether: std изменилось с 1.4124 на 1.0722
+IC50, mM: std изменилось с 402.1697 на 252.0980
+SMR_VSA6: std изменилось с 16.2291 на 15.3188
+SlogP_VSA10: std изменилось с 7.2151 на 6.3862
+SlogP_VSA11: std изменилось с 8.4469 на 6.2147
+BCUT2D_CHGHI: std изменилось с 0.1621 на 0.1586
+VSA_EState5: std изменилось с 2.5638 на 1.9144
+EState_VSA7: std изменилось с 19.9169 на 19.3755
+SMR_VSA10: std изменилось с 13.2289 на 13.2089
+BCUT2D_MWLOW: std изменилось с 0.4613 на 0.2354
+TPSA: std изменилось с 45.7438 на 41.8041
+PEOE_VSA9: std изменилось с 12.5287 на 12.1406
+EState_VSA10: std изменилось с 10.6238 на 9.7666
+SMR_VSA5: std изменилось с 29.5941 на 29.4270
+EState_VSA3: std изменилось с 13.8799 на 13.1739
+NumSaturatedHeterocycles: std изменилось с 0.7959 на 0.7722
+SlogP_VSA2: std изменилось с 23.7927 на 22.4189
+CC50, mM: std изменилось с 642.8675 на 606.1510
+BCUT2D_LOGPLOW: std изменилось с 0.1770 на 0.1741
+NumAromaticHeterocycles: std изменилось с 0.7253 на 0.6994
+PEOE_VSA2: std изменилось с 5.8660 на 5.8540
+VSA_EState3: std изменилось с 15.1927 на 10.2637
+BCUT2D_MRHI: std изменилось с 1.0910 на 0.8811
+SlogP_VSA12: std изменилось с 7.9467 на 7.3936
+SlogP_VSA3: std изменилось с 7.7200 на 7.3095
+BCUT2D_MRLOW: std изменилось с 0.2496 на 0.2035
+MinAbsEStateIndex: std изменилось с 0.1687 на 0.1655
+SlogP_VSA5: std изменилось с 26.6370 на 25.0301
+PEOE_VSA7: std изменилось с 21.8176 на 21.0274
+EState_VSA9: std изменилось с 8.4838 на 8.1556
+BCUT2D_MWHI: std изменилось с 14.5290 на 12.0540
+
+Изменения в min:
+MolLogP: min изменилось с -5.7507 на -0.6687
+BCUT2D_LOGPHI: min изменилось с 1.9321 на 1.9758
+BalabanJ: min изменилось с 0.0000 на 0.6980
+MinEStateIndex: min изменилось с -6.9928 на -3.4288
+MaxAbsEStateIndex: min изменилось с 2.3219 на 3.3791
+VSA_EState7: min изменилось с -33.0864 на -8.6195
+BCUT2D_CHGHI: min изменилось с 1.8345 на 2.0632
+VSA_EState5: min изменилось с -20.3027 на -4.2502
+FpDensityMorgan1: min изменилось с 0.2222 на 0.5000
+BCUT2D_MWLOW: min изменилось с 0.9313 на 9.2539
+MinPartialCharge: min изменилось с -0.7440 на -0.6623
+BCUT2D_MRHI: min изменилось с 4.6521 на 4.7893
+BCUT2D_MRLOW: min изменилось с -1.0809 на -0.4819
+
+Изменения в max:
+MolLogP: max изменилось с 12.8222 на 9.7243
+fr_NH0: max изменилось с 12.0000 на 7.0000
+NHOHCount: max изменилось с 15.0000 на 7.0000
+VSA_EState8: max изменилось с 36.9828 на 23.3845
+SI: max изменилось с 15620.6000 на 54.4000
+EState_VSA8: max изменилось с 150.9526 на 95.1657
+PEOE_VSA6: max изменилось с 128.8952 на 102.0242
+PEOE_VSA10: max изменилось с 107.9238 на 40.2804
+BalabanJ: max изменилось с 3.7932 на 3.4601
+PEOE_VSA14: max изменилось с 113.5609 на 20.8926
+SMR_VSA9: max изменилось с 57.4951 на 20.1233
+MolWt: max изменилось с 904.7770 на 771.6880
+EState_VSA4: max изменилось с 96.5602 на 64.2201
+PEOE_VSA3: max изменилось с 43.4577 на 16.7809
+fr_halogen: max изменилось с 9.0000 на 3.5000
+fr_Ar_N: max изменилось с 12.0000 на 3.5000
+PEOE_VSA11: max изменилось с 47.4139 на 20.2414
+EState_VSA2: max изменилось с 69.2296 на 49.5045
+PEOE_VSA12: max изменилось с 29.5079 на 20.6751
+SlogP_VSA8: max изменилось с 45.0425 на 21.2661
+PEOE_VSA1: max изменилось с 118.9100 на 39.0455
+NumRotatableBonds: max изменилось с 28.0000 на 12.5000
+VSA_EState7: max изменилось с 33.9233 на 20.3958
+VSA_EState1: max изменилось с 122.5916 на 71.7616
+Ipc: max изменилось с 39517808516075.6172 на 15350429.7272
+fr_C_O: max изменилось с 5.0000 на 3.5000
+SMR_VSA3: max изменилось с 59.0579 на 34.2994
+EState_VSA5: max изменилось с 270.3271 на 75.9829
+SMR_VSA1: max изменилось с 118.9100 на 68.5654
+EState_VSA1: max изменилось с 187.4461 на 63.4029
+fr_ether: max изменилось с 8.0000 на 3.5000
+IC50, mM: max изменилось с 4128.5294 на 756.1273
+SMR_VSA6: max изменилось с 104.7161 на 64.4221
+SlogP_VSA10: max изменилось с 39.7971 на 19.9059
+SlogP_VSA11: max изменилось с 57.4951 на 20.1233
+EState_VSA7: max изменилось с 126.8524 на 84.9291
+SMR_VSA10: max изменилось с 68.4110 на 65.8320
+BCUT2D_MWLOW: max изменилось с 10.7089 на 10.7049
+TPSA: max изменилось с 407.5000 на 219.5100
+PEOE_VSA9: max изменилось с 65.4476 на 54.9200
+EState_VSA10: max изменилось с 81.3924 на 41.5505
+SMR_VSA5: max изменилось с 174.3680 на 153.1495
+EState_VSA3: max изменилось с 93.2636 на 63.0775
+NumSaturatedHeterocycles: max изменилось с 6.0000 на 3.5000
+SlogP_VSA2: max изменилось с 213.1382 на 118.7457
+CC50, mM: max изменилось с 4538.9762 на 2879.3145
+BCUT2D_LOGPLOW: max изменилось с -1.6478 на -1.8104
+NumAromaticHeterocycles: max изменилось с 5.0000 на 3.5000
+PEOE_VSA2: max изменилось с 34.1924 на 33.5618
+VSA_EState3: max изменилось с 156.3595 на 41.9975
+BCUT2D_MRHI: max изменилось с 14.1120 на 8.0649
+SlogP_VSA12: max изменилось с 45.8755 на 26.5852
+SlogP_VSA3: max изменилось с 43.5537 на 31.3919
+BCUT2D_MRLOW: max изменилось с 1.1703 на 0.6015
+MinAbsEStateIndex: max изменилось с 1.3746 на 0.8909
+SlogP_VSA5: max изменилось с 184.0771 на 122.7544
+PEOE_VSA7: max изменилось с 161.0621 на 104.3246
+EState_VSA9: max изменилось с 56.6070 на 37.5752
+BCUT2D_MWHI: max изменилось с 126.9127 на 71.4047
